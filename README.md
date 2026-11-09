@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aravindh Jawahar
 
-<!--
-**aravindhjawahar2003-del/aravindhjawahar2003-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PGDM in Product Management @ ISBR Business School, Bengaluru (2025–27) | Aspiring Product Manager
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Founder & CEO — PM Job Getaway** · https://pm-launchpad.vercel.app
+A free job board with verified entry-level Product Manager roles for India and worldwide — every posting checked on its original page and re-verified every 12 hours.
+
+## Background
+
+- B.Com, Guru Nanak College, Chennai
+- Internships: finance & accounts (Tally Prime, GST), market research (EdTech), marketing & product research
+- Case studies, PRDs and Figma wireframes; research with SPSS
+
+## Tools I use
+
+Figma · Miro · Power BI · Tableau · SPSS · Jira · Notion · Excel / Google Sheets · n8n · Claude
+
+## Writing
+
+Currently writing *Ranavettaiyan*, a historical-fantasy novel in Tamil.
+
+## Connect
+
+- Portfolio: https://aravindhj.lovable.app/
+- LinkedIn: https://www.linkedin.com/in/aravindhjawahar2003
+- Email: aravindhjawahar2003@gmail.com
